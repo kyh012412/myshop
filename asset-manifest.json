@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myshop/static/css/main.5d9f7bdc.css",
+    "main.js": "/myshop/static/js/main.2a5de755.js",
+    "static/js/453.a07a6c40.chunk.js": "/myshop/static/js/453.a07a6c40.chunk.js",
+    "static/media/cosmetics.png": "/myshop/static/media/cosmetics.7921d62e6fb0fb15fde2.png",
+    "index.html": "/myshop/index.html",
+    "main.5d9f7bdc.css.map": "/myshop/static/css/main.5d9f7bdc.css.map",
+    "main.2a5de755.js.map": "/myshop/static/js/main.2a5de755.js.map",
+    "453.a07a6c40.chunk.js.map": "/myshop/static/js/453.a07a6c40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d9f7bdc.css",
+    "static/js/main.2a5de755.js"
+  ]
+}
